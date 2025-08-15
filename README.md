@@ -2,13 +2,12 @@
   <img src="https://github.com/user-attachments/assets/57f17d48-baf4-4bed-97ab-6b817e31dc26" alt="COCaDA_logomenor">
 </p>
 
-# COCαDA - Large Scale Protein Interatomic Contact Optimization by Cα Distance Matrices
-
+# COCαDA - COCαDA - A Fast and Scalable Algorithm forInteratomic Contact Detection in Proteins Using Cα Distance Matrices
 ---
 
 ## 🔬 Description
 
-COCαDA (Contact Optimization by alpha-Carbon Distance Analysis) optimizes the calculation of atomic interactions in proteins, by using a set of fine-tuned **Cα distances** between every pair of aminoacid residues.
+COCαDA (COntact search pruning by Cα Distance Analysis) optimizes the calculation of atomic interactions in proteins, by using a set of fine-tuned **Cα distances** between every pair of aminoacid residues.
 The code includes a customized parser for both **PDB** and **CIF** files, with support for large files, residue and atom filtering, and geometric analysis (e.g., centroids and normal vectors for aromatic residues). Users can also define their own contact distance cutoffs via the [`contact_distances.json`](contact_distances.json) configuration file.
 
 ### 🔍 Contact types detected:
@@ -101,10 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🧾 Citation
 
-**LEMOS, Rafael P.; MARIANO, Diego; SILVEIRA, Sabrina A.; MELO-MINARDI, Raquel C. de.**  
-*COCαDA - Large-Scale Protein Interatomic Contact Cutoff Optimization by Cα Distance Matrices.*  
-Proceedings of the XVII Brazilian Symposium on Bioinformatics (BSB), 17, pp. 59–70, 2024.  
-DOI: [https://doi.org/10.5753/bsb.2024.245545](https://doi.org/10.5753/bsb.2024.245545)
+Coming soon
 
 ---
 
